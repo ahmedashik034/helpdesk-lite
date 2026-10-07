@@ -132,6 +132,6 @@ This project is actively being developed as part of my journey to build stronger
 
 **Ashik Ahmed**
 
-Backend Developer | NestJS | ASP.NET Core | TypeScript
+Backend Developer | NestJS | TypeScript
 
 ⭐ If you find this project useful, feel free to star the repository.
