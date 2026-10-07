@@ -78,9 +78,15 @@ The API will be available at:
 
 ## 📚 API Documentation
 
-Swagger documentation:
+## 🔗 API Endpoints
 
-`http://localhost:3000/api/docs`
+| Method | Endpoint | Description |
+|---|---|---|
+| `POST` | `/api/tickets` | Create a new ticket |
+| `GET` | `/api/tickets` | Get all tickets |
+| `GET` | `/api/tickets/:id` | Get a single ticket |
+| `GET` | `/api/tickets?status=open` | Filter tickets by status |
+| `GET` | `/api/tickets?priority=high` | Filter tickets by priority |
 
 ## 🧪 Testing
 
